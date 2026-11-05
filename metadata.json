@@ -1,0 +1,6 @@
+{
+  "name": "FLARE",
+  "description": "FLARE - Social Chat & Colorful Flame Streak Platform. Keep The Flame Alive with 6-digit ID friendship, dynamic flame streaks, real-time messaging, and verified owner privileges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
